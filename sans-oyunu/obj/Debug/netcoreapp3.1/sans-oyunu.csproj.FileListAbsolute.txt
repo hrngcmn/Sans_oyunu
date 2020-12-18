@@ -1,0 +1,13 @@
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.exe
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.deps.json
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.runtimeconfig.json
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.runtimeconfig.dev.json
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.dll
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.pdb
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.csprojAssemblyReference.cache
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.AssemblyInfoInputs.cache
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.AssemblyInfo.cs
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.csproj.CoreCompileInputs.cache
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.dll
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.pdb
+D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.genruntimeconfig.cache
