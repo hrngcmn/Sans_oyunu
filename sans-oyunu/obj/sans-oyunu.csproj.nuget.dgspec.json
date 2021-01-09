@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c# githuba atılacaklar\\sans-oyunu\\sans-oyunu\\sans-oyunu.csproj": {}
+    "D:\\github_paylaşım\\Sans_oyunu\\sans-oyunu\\sans-oyunu.csproj": {}
   },
   "projects": {
-    "D:\\c# githuba atılacaklar\\sans-oyunu\\sans-oyunu\\sans-oyunu.csproj": {
+    "D:\\github_paylaşım\\Sans_oyunu\\sans-oyunu\\sans-oyunu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c# githuba atılacaklar\\sans-oyunu\\sans-oyunu\\sans-oyunu.csproj",
+        "projectUniqueName": "D:\\github_paylaşım\\Sans_oyunu\\sans-oyunu\\sans-oyunu.csproj",
         "projectName": "sans-oyunu",
-        "projectPath": "D:\\c# githuba atılacaklar\\sans-oyunu\\sans-oyunu\\sans-oyunu.csproj",
+        "projectPath": "D:\\github_paylaşım\\Sans_oyunu\\sans-oyunu\\sans-oyunu.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\c# githuba atılacaklar\\sans-oyunu\\sans-oyunu\\obj\\",
+        "outputPath": "D:\\github_paylaşım\\Sans_oyunu\\sans-oyunu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -11,3 +11,16 @@ D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oy
 D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.dll
 D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.pdb
 D:\c# githuba atılacaklar\sans-oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.genruntimeconfig.cache
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.exe
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.deps.json
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.runtimeconfig.json
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.runtimeconfig.dev.json
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.dll
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\bin\Debug\netcoreapp3.1\sans-oyunu.pdb
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.csprojAssemblyReference.cache
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.AssemblyInfoInputs.cache
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.AssemblyInfo.cs
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.csproj.CoreCompileInputs.cache
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.dll
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.pdb
+D:\github_paylaşım\Sans_oyunu\sans-oyunu\obj\Debug\netcoreapp3.1\sans-oyunu.genruntimeconfig.cache
